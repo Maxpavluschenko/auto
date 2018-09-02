@@ -1,0 +1,24 @@
+header {
+	text-align: center;
+}
+header .btn {
+	margin: 20px 0 100px 0;
+	padding: 5px 25px;
+	font-size: 20px;
+}
+.container .row {
+	justify-content: space-around;
+}
+.card {
+	max-width: 300px;
+	margin-bottom: 50px;
+}
+.card-img {
+	height: 100%;
+}
+.card-body {
+	text-align: center;
+}
+.modal-title {
+	
+}
